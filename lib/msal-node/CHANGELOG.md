@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-node
 
-This log was last generated on Mon, 01 Nov 2021 23:53:22 GMT and should not be manually modified.
+This log was last generated on Mon, 15 Nov 2021 21:53:39 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.4.0
+
+Mon, 15 Nov 2021 21:53:39 GMT
+
+### Minor changes
+
+- Add support for hybrid spa flow #3478 (janutter@microsoft.com)
+- Bump @azure/msal-common to v5.2.0
 
 ## 1.3.3
 
